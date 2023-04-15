@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1.title{
+    background-color: crimson;
+    color: beige;
+    padding: 20px;
+}
+
+form {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    display: flex;
+}
+
+form input {
+    padding: 5px;
+    border: none;
+    outline: none;
+    display: flex;
+}
+
+form button {
+    padding: 10px 20px;
+    background-color: crimson;
+    color: beige;
+}
+
+div.list {
+    margin-top: 10px;
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+div.item {
+    text-align: center;
+    padding: 10px;
+    border: 2px solid crimson;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+div.img {
+    width: 100%;
+}
