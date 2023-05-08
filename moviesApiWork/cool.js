@@ -31,8 +31,8 @@ const funcList = (json) => {
         let item = document.createElement("div")
         item.classList.add("item");
 
-        item.innerHTML = `<img src="${element.Poster}"><h2>${element.Title}</h2> <h4>Year: ${element.Year}</h4>`
-
+        item.innerHTML = `<img src="${element.Poster}"><h2>${element.Title}</h2><h4>Year: ${element.Year}</h4>
+        <h4>IMDB:<a href="https://www.imdb.com/title/${element.imdbID}/" title="See more Info on IMDB">Click Here</a></h4>`
         list.appendChild(item)
     })
 }
