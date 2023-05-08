@@ -1,17 +1,20 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Cinzel', serif, bold;
 }
 
 body {
     background-image: url(/resource/filmes.png);
 }
 
-h1.title {
+.title {
     background-color: crimson;
     color: beige;
     padding: 20px;
+    font-family: 'Cinzel', serif;
+    font-size: xx-large;
+    text-align: center;
 }
 
 form {
@@ -28,10 +31,12 @@ form input {
     border: none;
     outline: none;
     flex: 1;
-    height: 30px;
+    height: 35px;
 }
 
 form button {
+    font-family: 'Cinzel', serif;
+    font-size: large;
     padding: 10px 20px;
     background-color: crimson;
     color: beige;
@@ -49,6 +54,8 @@ div.list {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    padding-bottom: 50px;
+    position: relative;
 }
 
 div.item {
@@ -63,3 +70,20 @@ div.item {
 div.img {
     width: 100%;
 }
+
+a {
+    color: beige;
+}
+
+a:hover {
+    font-size: larger;
+}
+
+footer {
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: crimson;
+    color: beige;
+}
+
