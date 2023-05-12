@@ -15,3 +15,7 @@ The user can also click on any movie to see more information from IMDB, such as 
 To see my page, you can simply access the link:
 
 https://moviefinder-sgd6.onrender.com/
+
+# How to contribute
+If you want to contribute to this project, you can send suggestions, corrections or improvements through issues or pull requests. 
+You can also contact me by my email: cristiano642@gmail.com.
