@@ -12,8 +12,11 @@ The user can also click on any movie to see more information from IMDB, such as 
 
 # How to use
 
-To see my page, you can simply access the link:
+Just type a movie you're looking for in the search bar
 
+# Demo
+
+To see my page, you can simply access the link:
 https://moviefinder-sgd6.onrender.com/
 
 # How to contribute
