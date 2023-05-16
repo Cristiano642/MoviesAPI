@@ -19,3 +19,5 @@ https://moviefinder-sgd6.onrender.com/
 # How to contribute
 If you want to contribute to this project, you can send suggestions, corrections or improvements through issues or pull requests. 
 You can also contact me by my email: cristiano642@gmail.com.
+
+I hope you enjoy my API Movies Page and have fun!
