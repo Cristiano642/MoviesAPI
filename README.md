@@ -1,6 +1,6 @@
 # MoviesAPI
 
-A small project where you can search for your movies
+A small project where you can search for your movies.
 
 # Describe 
 
