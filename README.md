@@ -12,7 +12,7 @@ The user can also click on any movie to see more information from IMDB, such as 
 
 # How to use
 
-Just type a movie you're looking for in the search bar
+Just type a movie you're looking for in the search bar. 
 
 # Demo
 
