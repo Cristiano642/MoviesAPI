@@ -1,6 +1,6 @@
 # MoviesAPI
 
-<h2> MovieFinder </h2>
+MovieFinder 
 A small project where you can search for your movies.
 
 # Describe 
